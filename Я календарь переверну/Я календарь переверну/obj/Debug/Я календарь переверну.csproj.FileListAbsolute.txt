@@ -1,0 +1,16 @@
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\bin\Debug\Я календарь переверну.exe.config
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\bin\Debug\Я календарь переверну.exe
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\bin\Debug\Я календарь переверну.pdb
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну_MarkupCompile.cache
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну_MarkupCompile.lref
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.g.resources
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я_календарь_переверну.Properties.Resources.resources
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.exe
+C:\Users\annak\source\repos\Я календарь переверну\Я календарь переверну\obj\Debug\Я календарь переверну.pdb
